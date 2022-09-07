@@ -126,7 +126,9 @@ form label, form legend {
 	transition: 1s all;
 	cursor: pointer;
 }
-
+footer{
+	background-color: #2e2e2e;
+}
 .enviar:hover {
 	background: darkorange;
 	transform: scale(1.2);
