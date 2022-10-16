@@ -258,6 +258,9 @@ td, th {
 		width: auto;
 		width: 100%;
 	}
+	.video{
+		width: 100%;
+	}
 	
 	
 }
