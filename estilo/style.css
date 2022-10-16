@@ -211,7 +211,7 @@ td, th {
 .imagem-beneficios{
 	width: 60%;
 	opacity: 1;
-	box-shadow: 10px 10px 10px #000000;
+	box-shadow: 2px 2px 5px #000000;
 }
 .imagem-beneficios:hover{
 	opacity: 0.3;
