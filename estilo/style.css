@@ -209,8 +209,9 @@ td, th {
 	content: "\2B50  ";
 }
 .imagem-beneficios{
-	width: 59%;
+	width: 60%;
 	opacity: 1;
+	box-shadow: 2px 2px 5px black;
 	
 }
 .imagem-beneficios:hover{
@@ -260,6 +261,9 @@ td, th {
 	}
 	.video{
 		width: 100%;
+	}
+	.titulo-principal{
+		font-size: 18px;
 	}
 	
 	
