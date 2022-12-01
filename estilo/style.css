@@ -218,7 +218,8 @@ td, th {
 .imagem-beneficios{
 	width: 60%;
 	opacity: 1;
-	box-shadow: 10px 10px 10px #000000;
+	box-shadow: 2px 2px 5px black;
+	
 }
 .imagem-beneficios:hover{
 	opacity: 0.3;
@@ -264,6 +265,12 @@ td, th {
 	.produtos li {
 		width: auto;
 		width: 100%;
+	}
+	.video{
+		width: 100%;
+	}
+	.titulo-principal{
+		font-size: 18px;
 	}
 	
 	
